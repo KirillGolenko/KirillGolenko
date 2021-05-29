@@ -10,4 +10,6 @@ ___
 ![NestJS](https://img.shields.io/badge/-NestJS-090909?style=for-the-badge&logo=NestJS)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
 
-![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail) - <b>kgolenko.exceedteam@gmail.com</b>
+![KirillGolenko GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillGolenko&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillGolenko&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
